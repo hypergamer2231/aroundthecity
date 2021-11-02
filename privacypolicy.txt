@@ -3,11 +3,11 @@ PRIVACY POLICY
 CONTACT:
 	-EMAIL: SMG.Corp.Official@gmail.com
 	-DISCORD: Poorly Drawn HyperGDD#2401 (ID: 312306423616765952 )
-LAST UPDATE OF PRIVACY POLICY: 28.10.2021 (DD,MM,YYYY) 1:08 (24 hours format)
+LAST UPDATE OF PRIVACY POLICY: 2.11.2021 (DD,MM,YYYY) 17:32 GMT+2 (24 hours format)
 
 	First of all, we do not collect any information.
 	If you suspect any information collection, please check the game installation source then contact us.
-  This doesn't have ads. This game can't collect any kind of information.
+  This doesn't have ads, API or SDK, just simple Unity game with some objects added and scripts to make it fully functioning. This game can't collect any kind of information.
   When we will collect any information, we also update the privacy policy.
 	If you installed this game only from google play, then you can safely play.
 	As in our other game (Sphere of puzzle, which it was taken down for a reason which I (HyperGDD/Raul) do not understand why its a good reason)
